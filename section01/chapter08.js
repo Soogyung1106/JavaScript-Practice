@@ -32,4 +32,4 @@ let var8 = 10;
 
 //요구사항: 변수 res에 var8의 값이 짝수 -> "짝", 홀수 -> "홀"
 let res = var8 % 2 === 0 ? "짝수" : "홀수";
-console.log(res); //출력: 
+console.log(res); //출력: 짝수

@@ -25,12 +25,12 @@
 - chapter03 : 구조분해할당
 - chapter04 : Spread 연산자와 Rest 매개변수 
 - chapter05 : 원시타입 VS 객체타입
-- chapter06 : 
-- chapter07 :
-- chapter08 :
-- chapter09 :
-- chapter10 :
-- chapter11 :
-- chapter12 :
-- chapter13 :
-- chapter14 :
+- chapter06 : 반복문으로 배열과 객체 순회하기
+- chapter07 : 배열 메서드 1. 요소 조작
+- chapter08 : 배열 메서드 2. 순회와 탐색
+- chapter09 : 배열 메서드 3. 배열 변형
+- chapter10 : Data 객체와 날짜 
+- chapter11 : 동기와 비동기
+- chapter12 : 비동기 작업 처리하기 1. 콜백함수 
+- chapter13 : 비동기 작업 처리하기 2. Promise
+- chapter14 : 비동기 작업 처리하기 3. Async와 Await

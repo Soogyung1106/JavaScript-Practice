@@ -47,7 +47,7 @@ for (let value of values){
 //출력
 //James
 //26
-//painting
+//paintingq
 
 //2.3 for in 
 for(let key in person){

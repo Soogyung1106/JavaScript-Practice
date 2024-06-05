@@ -2,7 +2,7 @@
 [2024 리뉴얼] 한입 크기로 잘라 먹는 리액트(React.js) 참고
 
 
-## section01 
+## section01 - JavaScript 기본
 - chapter03 : 자바스크립트 실습 환경 설정하기
 - chapter04 : 변수와 상수
 - chapter05 : 자료형
@@ -19,7 +19,7 @@
 - chapter16 : 객체 2
 - chapter17 : 배열 
 
-## section02 
+## section02 - JavaScript 실습
 - chapter01 : Truthy와 Falsy
 - chapter02 : 단락 평가 
 - chapter03 : 구조분해할당

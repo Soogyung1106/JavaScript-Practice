@@ -19,7 +19,7 @@
 - chapter16 : 객체 2
 - chapter17 : 배열 
 
-## section02 - JavaScript 실습
+## section02 - JavaScript 심화
 - chapter01 : Truthy와 Falsy
 - chapter02 : 단락 평가 
 - chapter03 : 구조분해할당
